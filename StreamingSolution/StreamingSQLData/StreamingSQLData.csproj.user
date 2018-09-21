@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <StartWorkingDirectory>E:\working\StreamingSolutionV2\StreamingSolutionV2\StreamingSolution\StreamingSQLData\bin\Debug\</StartWorkingDirectory>
+    <StartArguments>/b1 /e1 /s1000 /dTAMZ_Insurance /vOHSQL8510.tamz.local /htamzeventhub /kl4UfdzKwqmmX10moqWnGrBV4VyMdt+AoCUBtFWoI/WI= /reventreader /ntamzinsurance</StartArguments>
+  </PropertyGroup>
+</Project>

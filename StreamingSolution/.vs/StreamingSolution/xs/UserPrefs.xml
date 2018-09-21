@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{40E8C796-EC50-4916-AB00-8D8BCF160AA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamingSQLData/Program.cs">
+    <Files>
+      <File FileName="StreamingSQLData/Program.cs" Line="170" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StreamingSolution" expanded="True">
+            <Node name="StreamingSQLData" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StreamingSQLData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>StreamingFiles/StreamingFiles.csproj</String>
+  </DisabledProjects>
+</Properties>
